@@ -1,0 +1,5 @@
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\DivideTwoVar\bin\Debug\DivideTwoVar.exe.config
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\DivideTwoVar\bin\Debug\DivideTwoVar.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\DivideTwoVar\bin\Debug\DivideTwoVar.pdb
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\DivideTwoVar\obj\Debug\DivideTwoVar.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\DivideTwoVar\obj\Debug\DivideTwoVar.pdb

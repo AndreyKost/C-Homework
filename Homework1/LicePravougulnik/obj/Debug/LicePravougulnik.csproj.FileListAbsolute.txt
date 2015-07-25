@@ -1,0 +1,5 @@
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\LicePravougulnik\bin\Debug\LicePravougulnik.exe.config
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\LicePravougulnik\bin\Debug\LicePravougulnik.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\LicePravougulnik\bin\Debug\LicePravougulnik.pdb
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\LicePravougulnik\obj\Debug\LicePravougulnik.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\LicePravougulnik\obj\Debug\LicePravougulnik.pdb

@@ -1,0 +1,6 @@
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\bin\Debug\FactorialDiv.exe.config
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\bin\Debug\FactorialDiv.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\bin\Debug\FactorialDiv.pdb
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\obj\Debug\FactorialDiv.csprojResolveAssemblyReference.cache
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\obj\Debug\FactorialDiv.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\FactorialDiv\obj\Debug\FactorialDiv.pdb

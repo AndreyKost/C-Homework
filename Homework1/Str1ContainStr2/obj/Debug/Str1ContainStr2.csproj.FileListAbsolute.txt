@@ -1,0 +1,5 @@
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\Str1ContainStr2\bin\Debug\Str1ContainStr2.exe.config
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\Str1ContainStr2\bin\Debug\Str1ContainStr2.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\Str1ContainStr2\bin\Debug\Str1ContainStr2.pdb
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\Str1ContainStr2\obj\Debug\Str1ContainStr2.exe
+C:\Users\anna\Documents\Visual Studio 2013\Projects\Homework1\Str1ContainStr2\obj\Debug\Str1ContainStr2.pdb
