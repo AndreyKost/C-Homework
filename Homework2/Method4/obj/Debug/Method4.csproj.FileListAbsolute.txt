@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method4\bin\Debug\Method4.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method4\bin\Debug\Method4.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method4\bin\Debug\Method4.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method4\obj\Debug\Method4.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method4\obj\Debug\Method4.pdb

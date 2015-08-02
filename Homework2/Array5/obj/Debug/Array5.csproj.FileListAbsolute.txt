@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array5\bin\Debug\Array5.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array5\bin\Debug\Array5.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array5\bin\Debug\Array5.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array5\obj\Debug\Array5.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array5\obj\Debug\Array5.pdb

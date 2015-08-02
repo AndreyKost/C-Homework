@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array7\bin\Debug\Array7.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array7\bin\Debug\Array7.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array7\bin\Debug\Array7.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array7\obj\Debug\Array7.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Array7\obj\Debug\Array7.pdb

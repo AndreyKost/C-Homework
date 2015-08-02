@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\bin\Debug\Method3.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\obj\Debug\Method3.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\bin\Debug\Method3.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\bin\Debug\Method3.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\obj\Debug\Method3.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework2\Method3\obj\Debug\Method3.pdb
