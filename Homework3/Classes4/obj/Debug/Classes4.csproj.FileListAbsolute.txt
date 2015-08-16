@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework3\Classes4\bin\Debug\Classes4.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework3\Classes4\bin\Debug\Classes4.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework3\Classes4\bin\Debug\Classes4.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework3\Classes4\obj\Debug\Classes4.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework3\Classes4\obj\Debug\Classes4.pdb
