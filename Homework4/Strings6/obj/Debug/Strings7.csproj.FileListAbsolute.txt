@@ -1,0 +1,3 @@
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Strings6\bin\Debug\Strings6.exe.config
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Strings6\obj\Debug\Strings6.exe
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Strings6\obj\Debug\Strings6.pdb

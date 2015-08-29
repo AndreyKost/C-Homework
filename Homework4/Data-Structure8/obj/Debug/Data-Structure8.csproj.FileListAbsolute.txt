@@ -1,0 +1,5 @@
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure8\bin\Debug\Data-Structure8.exe.config
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure8\bin\Debug\Data-Structure8.exe
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure8\bin\Debug\Data-Structure8.pdb
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure8\obj\Debug\Data-Structure8.exe
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure8\obj\Debug\Data-Structure8.pdb

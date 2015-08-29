@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\bin\Debug\Strings1.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\obj\Debug\Strings1.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\bin\Debug\Strings1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\bin\Debug\Strings1.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\obj\Debug\Strings1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings1\obj\Debug\Strings1.pdb

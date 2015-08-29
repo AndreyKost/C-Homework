@@ -1,0 +1,5 @@
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure3\bin\Debug\Data-Structure3.exe.config
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure3\bin\Debug\Data-Structure3.exe
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure3\bin\Debug\Data-Structure3.pdb
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure3\obj\Debug\Data-Structure3.exe
+C:\Users\anna\documents\visual studio 2013\Projects\Homework4\Data-Structure3\obj\Debug\Data-Structure3.pdb

@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings2\bin\Debug\Strings2.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings2\bin\Debug\Strings2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings2\bin\Debug\Strings2.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings2\obj\Debug\Strings2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework4\Strings2\obj\Debug\Strings2.pdb
