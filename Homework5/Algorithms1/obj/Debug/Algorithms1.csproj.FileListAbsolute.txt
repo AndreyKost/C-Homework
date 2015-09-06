@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\bin\Debug\Algorithms1.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\bin\Debug\Algorithms1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\bin\Debug\Algorithms1.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\obj\Debug\Algorithms1.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\obj\Debug\Algorithms1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms1\obj\Debug\Algorithms1.pdb

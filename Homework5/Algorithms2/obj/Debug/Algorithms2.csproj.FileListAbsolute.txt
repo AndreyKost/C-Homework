@@ -1,0 +1,5 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms2\bin\Debug\Algorithms2.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms2\bin\Debug\Algorithms2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms2\bin\Debug\Algorithms2.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms2\obj\Debug\Algorithms2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework5\Algorithms2\obj\Debug\Algorithms2.pdb
