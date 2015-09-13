@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\bin\Debug\Exceptions2.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\bin\Debug\Exceptions2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\bin\Debug\Exceptions2.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\obj\Debug\Exceptions2.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\obj\Debug\Exceptions2.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Exceptions2\obj\Debug\Exceptions2.pdb

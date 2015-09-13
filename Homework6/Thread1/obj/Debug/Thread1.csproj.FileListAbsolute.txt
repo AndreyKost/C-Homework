@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\bin\Debug\Thread1.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\bin\Debug\Thread1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\bin\Debug\Thread1.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\obj\Debug\Thread1.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\obj\Debug\Thread1.exe
+c:\users\anna\documents\visual studio 2013\Projects\Homework6\Thread1\obj\Debug\Thread1.pdb
