@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\bin\WebForms1.dll.config
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\bin\WebForms1.dll
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\bin\WebForms1.pdb
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\obj\Debug\WebForms1.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\obj\Debug\WebForms1.dll
+c:\users\anna\documents\visual studio 2013\Projects\WebForms1\WebForms1\obj\Debug\WebForms1.pdb

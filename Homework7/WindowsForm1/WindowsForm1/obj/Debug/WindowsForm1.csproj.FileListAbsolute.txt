@@ -1,0 +1,9 @@
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.exe.config
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.exe
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\bin\Debug\WindowsForm1.pdb
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.Form1.resources
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.Properties.Resources.resources
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.csproj.GenerateResource.Cache
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.exe
+c:\users\anna\documents\visual studio 2013\Projects\WindowsForm1\WindowsForm1\obj\Debug\WindowsForm1.pdb
