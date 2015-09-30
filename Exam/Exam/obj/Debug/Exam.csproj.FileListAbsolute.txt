@@ -1,0 +1,6 @@
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\bin\Exam.dll.config
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\bin\Exam.dll
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\bin\Exam.pdb
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\obj\Debug\Exam.csprojResolveAssemblyReference.cache
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\obj\Debug\Exam.dll
+c:\users\anna\documents\visual studio 2013\Projects\Exam\Exam\obj\Debug\Exam.pdb
